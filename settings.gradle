@@ -1,0 +1,2 @@
+rootProject.name='FireBase Start'
+include ':app'
